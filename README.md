@@ -1,5 +1,5 @@
 # NodeJS-Notes-App
-It is a Note taking NodeJS App which can used via CLI(command line arguments).
+It is a Note taking NodeJS App which can used via CLI(Command Line Interface).
 
 Using this app you can read, list, add and remove the notes from the notes.json file.
 
